@@ -39,4 +39,8 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
 Thanks
+
 Get a job which pays 60k by eoy
+
+everything
+
